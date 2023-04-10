@@ -1,0 +1,19 @@
+[
+    {
+        "templateId": 1,
+        "capsString": "Hello, my name is NAME . I have a ADJ NOUN whose favorite thing is NOUN .",
+        "starString": "Hello, my name is ***. I have a *** *** whose favorite thing is ***."
+    },
+
+    {
+        "templateId": 2,
+        "capsString": "The most important NOUN in Foundations is ADJ NOUN -- ' NAME '.",
+        "starString": "The most important *** in Foundations is *** *** -- '***'."
+    },
+
+    {
+        "templateId": 3,
+        "capsString": "We will meet me at PLACE , bring the OBJ , come alone, no PROFESSION .",
+        "starString": "We will meet me at ***, bring the ***, come alone, no ***."
+    }
+]
