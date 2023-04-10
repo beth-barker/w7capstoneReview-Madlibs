@@ -40,7 +40,7 @@ module.exports = {
         let starTemp = templates[currentIndex].starString
 
         //loop over answer array, and replace *** with the current index of each loop
-        for(let i = 0; i < answers.lenght; i++){
+        for(let i = 0; i < answers.length; i++){
             starTemp = starTemp.replace('***', answers[i])
         }
 
